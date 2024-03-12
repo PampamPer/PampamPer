@@ -1,18 +1,6 @@
 ### Hi there 👋
-My name is Arusa Thanagosai or you can call me Pam. I graduated from Chulalongkorn University with a bachelor’s degree in Computer Science in June 2023. I am interested in Web development and UX/UI design.
+I'm Arusa Thanagosai or you can call me Pam. I graduated from Chulalongkorn University with a bachelor’s degree in Computer Science in June 2023. I am interested in Web development, especially in Frontend development, and UX/UI design.
 
-```
-
-### Stats
-
-<div style="display: flex; flex-direction: column; gap: 16px">
-    <div style="display: flex; gap: 16px; align-items: flex-end">
-        <img src="https://github-readme-stats.vercel.app/api?username=PoraRee&show_icons=true&theme=dark" alt="Arusa's GitHub stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoraRee&layout=compact&theme=dark" alt="Arusa's Top Languages">
-    </div>
-</div>
-
-```
 
 ### Computer Languages
 
